@@ -1,0 +1,75 @@
+.container nav{
+
+    margin-bottom: 100px;
+    position: absolute;
+    top:0;
+    right: 0;
+}
+
+#logo{
+
+    top: 0;
+    left: 0;
+}
+
+
+.cld-md-6{
+
+    right: 50x;
+    
+}
+#btn {
+background-color: #21b573;
+border-radius: 33px;
+height: 43px;
+width: 104px;
+text-align: center;
+color: white;
+}
+
+#upmark{
+
+    background-color: aquamarine;
+}
+
+.cat-1, .cat-2,.cat-3,.cat-4{
+
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.container{
+
+    margin-bottom: 100px;
+    
+}
+.categories img{
+
+    width: 150px;
+}
+
+.card{
+
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+
+}
+
+.card-footer{
+
+    background-color: white;
+    border-top: none;
+}
+.headlines{
+
+    text-align: center;
+}
+.row justify-content-start{
+    text-align: center;
+}
+footer{
+    
+    background-color: #4d4d4d;
+
+    text-align: center;
+}
